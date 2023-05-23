@@ -1,0 +1,15 @@
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\bin\Debug\net6.0\Calculadora Teorema de Pitagoras.exe
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\bin\Debug\net6.0\Calculadora Teorema de Pitagoras.deps.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\bin\Debug\net6.0\Calculadora Teorema de Pitagoras.runtimeconfig.json
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\bin\Debug\net6.0\Calculadora Teorema de Pitagoras.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\bin\Debug\net6.0\Calculadora Teorema de Pitagoras.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.csproj.AssemblyReference.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.AssemblyInfoInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.AssemblyInfo.cs
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\refint\Calculadora Teorema de Pitagoras.dll
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.pdb
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\Calculadora Teorema de Pitagoras.genruntimeconfig.cache
+C:\Users\enzof\OneDrive - SESISENAISP - Escolas\Codigos\C#\Calculadora Teorema de Pitagoras\Calculadora Teorema de Pitagoras\obj\Debug\net6.0\ref\Calculadora Teorema de Pitagoras.dll
